@@ -10,8 +10,8 @@ This is my submission that follows Udacity's specifications and built using **Re
 
 ![Example](./screenshots/mobile-flashcards-project.gif)
 
-![Deck screen](./screenshots/Deck-main.png)
 
+Notification screenshot:
 ![Notification sceenshot](./screenshots/Notification-example.jpg)
 
 ## Installation
